@@ -1,4 +1,4 @@
-function clientMenu(){
+function startMenu(){
   return "Hello";
 }
 

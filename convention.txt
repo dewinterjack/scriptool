@@ -1,0 +1,19 @@
+File Name:
+
+Produce an Item:
+
+prod_<Item>.js
+
+Information on a File:
+
+info_<File Name>.<ext>
+
+Functions:
+
+Start a View of the Item in the Client:
+
+start<Item>(){}
+
+Create an Item:
+
+create<Item>(){}
