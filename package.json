@@ -1,0 +1,22 @@
+{
+  "name": "scriptool",
+  "version": "0.0.1",
+  "description": "Tool for managing scripts and their I/O",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewinterjack/scriptool.git"
+  },
+  "keywords": [
+    "script"
+  ],
+  "author": "Jack Dewinter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dewinterjack/scriptool/issues"
+  },
+  "homepage": "https://github.com/dewinterjack/scriptool#readme"
+}
