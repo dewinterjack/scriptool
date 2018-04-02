@@ -1,1 +1,1 @@
-var scriptool = require("./scrips/scrip.js");
+var scriptool = require("./client/scrip.js");
